@@ -1,12 +1,11 @@
 bracket-generator
 =================
 
+_Note: This package is now located in the [bracketclub/bracketclub](https://github.com/bracketclub/bracketclub) monorepo._
+
 Generate a tournament bracket.
 
 [![NPM](https://nodei.co/npm/bracket-generator.png)](https://nodei.co/npm/bracket-generator/)
-[![Build Status](https://travis-ci.org/bracketclub/bracket-generator.png?branch=master)](https://travis-ci.org/bracketclub/bracket-generator)
-[![Greenkeeper badge](https://badges.greenkeeper.io/bracketclub/bracket-generator.svg)](https://greenkeeper.io/)
-
 
 ## What is this?
 `bracket-generator`, well, it generates brackets! (Check out [`bracket-data`](https://github.com/bracketclub/bracket-data) for more info about brackets and their data.)
